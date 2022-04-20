@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hhibs aka Hiba 
-- 👀 I’m interested in software engineering/testing with a kick of learning more about data analyst !
-- 🌱 I’m currently learning automated testing C# Selenium 
+- 👀 I’m interested in software engineering/testing with a kick of learning more about data analysis
+- 🌱 I’m currently learning automated testing;  C# Selenium 
 - 💞️ I’m looking to collaborate on people who do web development as i'm currently volunteering for a disabled women by creating an application catered to her needs.
 - 📫 How to reach me via www.linkedin.com/in/hiba-iqbal-
 
